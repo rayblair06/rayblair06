@@ -1,14 +1,15 @@
-## Hi 👋, I'm a software engineer from Newcastle-Upon-Tyne, England
+## Hi 👋, I'm Ray.
 
-#### Now
+#### Currently
 
-- 🏢 I’m working at [EPAM Systems](https://www.epam.com)
+- 🏠 Living in Newcastle Upon Tyne, England.
+- 🏢 Working as Lead Software Engineer at [EPAM Systems](https://www.epam.com)
 - ✨ Contributing to [NodeFantasy](https://github.com/NodeFantasy)
-- 🌱 I’m learning **Python, C#, Unity**
+- 🌱 Learning **Python, C#, Unity**
 
 #### Bio
 
-- 💬 Ping me about **PHP, Vue.js, React**
+- 💬 Ping me about **PHP, Laravel, Symfony, Javascript, Vue.js, React**
 - 📫 How to [reach me](https://rayblair.co.uk)
 - 📝 Checkout my [resume](https://github.com/rayblair06/Resume)
 - ⚡ Fun fact - **I play drums in a local band called Evencoe**
