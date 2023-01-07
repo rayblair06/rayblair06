@@ -4,15 +4,15 @@
 
 - 🏠 Living in Newcastle Upon Tyne, England.
 - 🏢 Working as Lead Software Engineer at [EPAM Systems](https://www.epam.com)
-- ✨ Contributing to [NodeFantasy](https://github.com/NodeFantasy)
-- 🌱 Learning **Python, C#, Unity**
+- ✨ Contributing to [Anvil](https://github.com/FoundryCode), [HOTU](https://github.com/homeoftheunderdogs) and [NodeFantasy](https://github.com/NodeFantasy)
+<!-- - 🌱 Learning **Python, C#, Unity** -->
 
 #### Bio
 
 - 💬 Ping me about **PHP, Laravel, Symfony, Javascript, Vue.js, React**
 - 📫 How to [reach me](https://rayblair.co.uk)
 - 📝 Checkout my [resume](https://github.com/rayblair06/Resume)
-- ⚡ Fun fact - **I play drums in a local band called Evencoe**
+- ⚡ Fun fact - **I play drums in a band called Evencoe**
 
 #### Current Stack
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
