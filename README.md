@@ -3,8 +3,8 @@
 * 🏢 I'm a Lead Software Engineer at [EPAM Systems](https://www.epam.com)
 * 🏠 Living in Newcastle Upon Tyne, England.
 * 🚀 Currently working with **Azure, Javascript, Nuxt.js, Serverless, SSG, Tailwind, Typescript, Vue.js** 
-* ☕ Occasionally working with **AWS, Node.js, PHP, Solid.js, Symfony**
-* 🐢 Less often working with **Bootstrap, GCP, Laravel, Next.js, Python, React**
+* ☕ Occasionally working with **AWS, Laravel, Node.js, PHP, Solid.js, Symfony**
+* 🐢 Less often working with **Bootstrap, GCP, Next.js, Python, React**
 * 📫 How to [reach me](https://rayblair.co.uk)
 * 📝 Checkout my [resume](https://github.com/rayblair06/Resume)
 
