@@ -3,8 +3,8 @@
 * 🏢 I'm a Lead Software Engineer full time.
 * ☕ Helping build open source software part time.
 * 🏠 Living in Newcastle Upon Tyne, England.
-* 🚀 Currently working with **AWS, Javascript, Laravel, Nuxt.js, PHP, Python, Serverless, SSG, Tailwind, Typescript, Vue.js**. 
-* 🐢 Previously worked with **Bootstrap, GCP, Next.js, Node.js, React.js, Solid.js, Symfony**.
+* 🚀 Currently working with **Javascript, Laravel, Nuxt.js, PHP, Python, Vue.js**. 
+* 🐢 Previously worked with **Next.js, Node.js, React.js, Solid.js, Symfony**.
 * 📫 How to [reach me](https://rayblair.co.uk).
 * 📝 Checkout my [resume](https://github.com/rayblair06/Resume).
 
